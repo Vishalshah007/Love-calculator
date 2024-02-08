@@ -29,7 +29,8 @@ Welcome to the Love Calculator repository! This fun and interactive web applicat
 
 ## Screenshots 📸
 
-![Love Calculator Screenshot](screenshots/love_calculator_screenshot.png)
+![Love Calculator Screenshot](![image](https://github.com/Vishalshah007/Love-calculator/assets/140838474/9e91573e-5b07-4a97-aa5e-6b97c4895098)
+)
 
 ## Contributing 🤝
 
